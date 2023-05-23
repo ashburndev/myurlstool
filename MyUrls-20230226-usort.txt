@@ -1,0 +1,6 @@
+https://www.baeldung.com/groovy-io 20230226.062352
+https://www.baeldung.com/groovy-io 20230226.071018 Guide to I/O in Groovy
+https://www.baeldung.com/groovy-io 20230226.185503
+https://www.baeldung.com/reading-file-in-java 20230226.084512
+https://www.baeldung.com/reading-file-in-java 20230226.084555
+https://www.baeldung.com/reading-file-in-java 20230226.230205
